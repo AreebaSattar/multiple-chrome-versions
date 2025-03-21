@@ -9,7 +9,7 @@ Before proceeding, ensure you have **7-Zip** installed on your laptop. This tool
 ## Steps to Install an Older Chrome Version
 
 ### 1. Downloading an Older Version of Chrome
-- Visit [Google Chrome Old Versions - Uptodown](link) to download the desired version.
+- Visit [Google Chrome Old Versions - Uptodown](https://google-chrome.en.uptodown.com/windows/versions) to download the desired version.
 - Choose the required version (e.g., **127.0.6533.120**).
 - Download the `.exe` file.
 
